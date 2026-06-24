@@ -27,6 +27,7 @@ Always open to collaboration, interesting projects, and conversations around tec
 Find me here:
 
 X (Twitter): https://x.com/_br_ian_?t=MAUWNbb2hptzpBy8L6s6RA&s=09
+
 Portfolio: https://kipngetichportfolio.web.app/
 
 Thanks for stopping by — happy coding ✨
