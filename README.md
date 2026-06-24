@@ -2,7 +2,7 @@
 
 A developer passionate about building useful experiences, connecting ideas, and turning complex problems into practical solutions through code.
 
-For me, development isn't just writing lines of code — it's experimenting, learning, breaking things (occasionally 😅), fixing them, and enjoying the process. I enjoy creating projects that are not only functional but also meaningful, whether that's intelligent systems, modern web apps, or workflow automation that saves people time.
+For me, development isn't just writing lines of code — it's experimenting, learning, breaking things😅, fixing them, and enjoying the process. I enjoy creating projects that are not only functional but also meaningful, whether that's intelligent systems, modern web apps, or workflow automation that saves people time.
 
 ## Current Mission 🚀
 
